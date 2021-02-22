@@ -3,7 +3,6 @@
 ### Abstract
 
 - 👨‍💻 Owner/Developer in ProExWeb.com
-- 💙 Interesse: JavaScript, React, Next.js, HTML5, CSS, and MORE...
 - 🌱 I’m currently learning... React.js / Next.js / TypeScript
 
 - ☕ Pay me a coffee: https://paypal.me/alysonmartins
