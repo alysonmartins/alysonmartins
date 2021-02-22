@@ -28,6 +28,7 @@ Here are some ideas to get you started:
     <img
       align="center"
       height="165"
+      width="49%"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=alysonmartins&layout=compact"
     />
   </a>
@@ -35,6 +36,7 @@ Here are some ideas to get you started:
     <img
       align="center"
       height="165"
+      width="49%"
       src="https://github-readme-stats.vercel.app/api?username=alysonmartins&count_private=true&show_icons=true&hide=issues"
     />
   </a>
