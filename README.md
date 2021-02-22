@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="165"
+      height="135"
       width="49%"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=alysonmartins&layout=compact"
     />
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="165"
+      height="135"
       width="49%"
       src="https://github-readme-stats.vercel.app/api?username=alysonmartins&count_private=true&show_icons=true&hide=issues"
     />
