@@ -12,8 +12,7 @@
 ### Abstract
 
 - 👨‍💻 Owner/Developer in ProExWeb.com
-- 🌱 I’m currently learning... React.js / Next.js / TypeScript / Bun
-
+- 🌱 I’m currently learning... React.js / Next.js / TypeScript 
 - ☕ Pay me a coffee: https://paypal.me/alysonmartins
 
 <p align="center">
