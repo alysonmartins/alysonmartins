@@ -16,22 +16,21 @@
 - ☕ Pay me a coffee: https://paypal.me/alysonmartins
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+
     <img
       align="center"
       height="135"
       width="49%"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=alysonmartins&layout=compact"
     />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+
+
     <img
       align="center"
       height="135"
       width="49%"
       src="https://github-readme-stats.vercel.app/api?username=alysonmartins&count_private=true&show_icons=true&hide=issues"
     />
-  </a>
 </p>
 
 
